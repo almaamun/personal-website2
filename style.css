@@ -1,0 +1,112 @@
+body{
+    font-family: 'Anton', sans-serif;
+
+}
+.navbar{
+    padding: 17px 73px 5px;
+    text-align: right;
+   
+}
+.navbar a{
+    font-size: 18px;
+    text-decoration: none;
+    padding-left: 21px;
+    color: dimgray;
+}
+section{
+    margin-top: 50px;
+    height: 600px;
+
+}
+.half-width{
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 42%;
+    float: left;
+    
+}
+#welcome-part{
+    margin-left: 40px;
+}
+.orange-highlight{
+    color: orangered;
+}
+.linkBtn{
+    text-decoration: none;
+    color: #f9f8f6;
+    background-color: #f96f62;
+    padding: 10px;
+    border-radius: 5px;
+}
+.half-width img{
+    width: 80%;
+}
+#dimgray-color{
+    color: dimgray;
+}
+.latest-works{
+    
+    background-color: rgb(241 243 244);
+}
+#latest-works-tittle{
+    text-align: center;
+    padding: 21px 0px 5px;
+}
+.oneThird-width{
+    float: left;
+    width: 32%;
+    height: 400px;
+    margin: 4px;
+
+}
+.oneThird-width img{
+    width: 100%;
+    box-shadow: 10px 5px 15px gray;
+    border-radius: 5px;
+}
+.inquiry{
+    
+    background-image: url("shapes/Group_33094_1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+    
+
+}
+.inquiry-area{
+    
+    width: 45%;
+    float: left;
+    margin-left: 40px;
+    margin-top: 90px;
+}
+.inquiry-area h1{
+    color: wheat;
+    font-size: 60px;
+}
+.button-area{
+    font-size: 25px;
+    width: 40%;
+    height: 100px;
+    float: left;
+    margin-left: 158px;
+    margin-top: 170px;
+}
+.button-area a{
+    align-items: right;
+}
+.footer{
+    text-align: center;
+}
+.footer h3{
+    color: dimgray;
+}
+.footer h1{
+    font-size: 40px;
+    color: cadetblue;
+    
+}
+.footer img{
+    width:5%;
+    padding: 5px;
+}
